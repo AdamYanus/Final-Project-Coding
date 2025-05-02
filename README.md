@@ -1,5 +1,5 @@
 # Final-Project-Coding
-includes code for my final project
+includes code and directions on how to run the code
 
 Once downloaded to your computer, open jupyter notebook using the terminal app. Open jupyter notebook by typing "jupyter notebook" in the terminal.
 That will open it. Then go and make a folder containing all of the code. make sure that the data set called "hitters" is also in the same folder as the notebook files.
